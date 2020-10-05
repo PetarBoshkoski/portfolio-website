@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Spending some extra hours to make a portfolio website for me, using JavaScript library React.
 
 ## Available Scripts
 
